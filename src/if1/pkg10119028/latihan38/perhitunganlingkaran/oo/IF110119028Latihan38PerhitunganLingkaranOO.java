@@ -14,7 +14,7 @@ import java.util.Scanner;
  * NIM      : 10119028
  * Deskripsi Program : Program ini berisi program untuk menghitung &
  *                     menampilkan jari-jari, luas, dan keliling lingkaran
- *                     dengan konsep OO
+ *                     dengan konsep OO   
  */
 public class IF110119028Latihan38PerhitunganLingkaranOO {
 
